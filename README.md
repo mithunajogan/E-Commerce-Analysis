@@ -1,4 +1,6 @@
 # E-Commerce-Analysis
+This project focuses on extracting and analyzing data from an e-Commerce database to generate insights that can help steer business decisions by analyzing marketing channels, measuring website performance, and exploring the product portfolio
+
 # Traffic Analysis & Optimization
 I used MySQL to analyze where website traffic was coming from, evaluated how different sources performed in terms of traffic volume and conversion rates, and adjusted bids to optimize budgets.
 
